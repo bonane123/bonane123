@@ -1,5 +1,5 @@
 # HI THERE, I'M BONANE 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonane123&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonane123&show_icons=true&theme=radical) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonane123&layout=compact)](https://github.com/bonane123/github-readme-stats);
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
